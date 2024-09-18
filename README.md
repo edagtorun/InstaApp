@@ -4,4 +4,6 @@ Instagram App, a popular social media platform, was developed using React Native
 
 <h2>Screenshots</h2>
 
-![](InstagramAppIOS-min.gif)
+![](screenshot.gif)
+
+![](screenshot2.gif)
